@@ -1,0 +1,17 @@
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependencies / builds
+node_modules/
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.bak
